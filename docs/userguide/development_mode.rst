@@ -1,4 +1,4 @@
-Development Mode (a.k.a. "Editable Installs")
+tananchaDevelopment Mode (a.k.a. "Editable Installs")
 =============================================
 
 When creating a Python project, developers usually want to implement and test
